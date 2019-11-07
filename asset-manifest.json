@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/redux_todo_app/static/css/main.8f5c6ed4.chunk.css",
+    "main.js": "/redux_todo_app/static/js/main.b9edf206.chunk.js",
+    "main.js.map": "/redux_todo_app/static/js/main.b9edf206.chunk.js.map",
+    "runtime-main.js": "/redux_todo_app/static/js/runtime-main.2ac265f7.js",
+    "runtime-main.js.map": "/redux_todo_app/static/js/runtime-main.2ac265f7.js.map",
+    "static/css/2.f21faf4c.chunk.css": "/redux_todo_app/static/css/2.f21faf4c.chunk.css",
+    "static/js/2.d359fac6.chunk.js": "/redux_todo_app/static/js/2.d359fac6.chunk.js",
+    "static/js/2.d359fac6.chunk.js.map": "/redux_todo_app/static/js/2.d359fac6.chunk.js.map",
+    "index.html": "/redux_todo_app/index.html",
+    "precache-manifest.94c47880b99a5ef6e4d6a9e073b8e7d1.js": "/redux_todo_app/precache-manifest.94c47880b99a5ef6e4d6a9e073b8e7d1.js",
+    "service-worker.js": "/redux_todo_app/service-worker.js",
+    "static/css/2.f21faf4c.chunk.css.map": "/redux_todo_app/static/css/2.f21faf4c.chunk.css.map",
+    "static/css/main.8f5c6ed4.chunk.css.map": "/redux_todo_app/static/css/main.8f5c6ed4.chunk.css.map",
+    "static/media/semantic.min.css": "/redux_todo_app/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ac265f7.js",
+    "static/css/2.f21faf4c.chunk.css",
+    "static/js/2.d359fac6.chunk.js",
+    "static/css/main.8f5c6ed4.chunk.css",
+    "static/js/main.b9edf206.chunk.js"
+  ]
+}
